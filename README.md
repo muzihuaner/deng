@@ -6,6 +6,7 @@
 
 复制下面的代码添加到网站的页脚文件。
 
+```html
 <!-- 灯笼1 -->
 <div class="deng-box">
     <div class="deng">
@@ -27,3 +28,11 @@
         <div class="shui shui-a"><div class="shui-c"></div><div class="shui-b"></div></div>
     </div>
 </div>
+```
+
+复制下面的代码到```</head>```前
+
+```html
+<link rel="stylesheet" type="text/css" href="https://cdn.jsdelivr.net/gh/muzihuaner/deng@main/deng.css">
+```
+
