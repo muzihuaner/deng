@@ -4,7 +4,7 @@
 这个灯笼特效可以加到任何网站上面
 具体的方法如下：
 
-复制下面的代码添加到网站的页脚文件。
+1.复制下面的代码添加到网站的页脚文件。
 
 ```html
 <!-- 灯笼1 -->
@@ -30,7 +30,7 @@
 </div>
 ```
 
-复制下面的代码到```</head>```前
+2.引入CSS，复制下面的代码到```</head>```前
 
 ```html
 <link rel="stylesheet" type="text/css" href="https://cdn.jsdelivr.net/gh/muzihuaner/deng@main/deng.css">
